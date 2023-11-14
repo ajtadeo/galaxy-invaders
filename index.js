@@ -1,5 +1,5 @@
-// const chsJsLib = require('chs-js-lib');
-const { setTimer, Circle, Randomizer } = require('chs-js-lib');
+// const { setTimer, Circle, Randomizer } = require('chs-js-lib');
+import { setTimer, Circle, Randomizer } from 'chs-js-lib';
 
 // colors
 // var backgroundColor = new Color(36, 36, 36);
